@@ -1,0 +1,23 @@
+/*general*/
+body {
+	background: url("../images/wood-cube-473703_1920.jpg");
+}
+
+#twd-jumbo {
+	background: url("");
+}
+
+#heading {
+	font-weight: bold;
+}
+
+/*form*/
+.twd-opt {
+	margin-right: 20px;
+}
+
+#heading {
+	text-align: center;
+	color: #222;
+	text-shadow: 0px 2px 3px #555;
+}
